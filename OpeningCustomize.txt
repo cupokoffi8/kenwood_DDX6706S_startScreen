@@ -1,0 +1,4 @@
+Opening Customize
+[FILE]akira_titlescreen.bmp
+[VERSION]9876
+~END
